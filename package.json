@@ -1,0 +1,50 @@
+{
+  "name": "Backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "mocha -r ts-node/register 'test/*.ts'",
+    "start": "npm run build && nodemon ./build/server.js",
+    "start:dev": "nodemon",
+    "build": "rimraf ./build && tsc"
+  },
+  "keywords": [],
+  "author": "mostafa",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/bcrypt": "^3.0.0",
+    "@types/chai": "^4.2.14",
+    "@types/chai-http": "^4.2.0",
+    "@types/cors": "^2.8.8",
+    "@types/express": "^4.17.9",
+    "@types/mocha": "^8.2.0",
+    "@types/mongoose": "^5.10.1",
+    "@types/multer": "^1.4.4",
+    "@types/node": "^14.14.9",
+    "@types/uuid": "^8.3.0",
+    "@vercel/node": "^1.8.5",
+    "chai": "^4.2.0",
+    "chai-http": "^4.3.0",
+    "mocha": "^8.2.1",
+    "rimraf": "^3.0.2",
+    "ts-node": "^9.0.0"
+  },
+  "dependencies": {
+    "backblaze-b2": "^1.5.0",
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "filestack-js": "^3.20.0",
+    "fs-extra": "^9.0.1",
+    "mongoose": "^5.10.15",
+    "multer": "^1.4.2",
+    "nodemon": "^2.0.6",
+    "uuid": "^8.3.1"
+  },
+  "engines": {
+    "node": "12"
+  }
+}

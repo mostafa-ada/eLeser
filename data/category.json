@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "5fb05338c2481f192ceb3f16",
+        "category_name": "Roboter und Technik"
+    },
+    {
+        "_id": "5fb05389c2481f192ceb3f17",
+        "category_name": "Abenteuer"
+    },
+    {
+        "_id": "5fb05a33e6d001326c9c6608",
+        "category_name": "Gruselige Geschicten"
+    },
+    {
+        "_id": "5fb05a33e6d001326c9c6610",
+        "category_name": "Star Wars"
+    },
+    {
+        "_id": "5fb05a33e6d001326c9c6612",
+        "category_name": "Tiefsee und Meereslebewesen"
+    },
+    {
+        "_id": "5fb05a33e6d001326c9c6615",
+        "category_name": "Tagebuecher"
+    },
+    {
+        "_id": "5fb05a33e6d001326c9c660b",
+        "category_name": "Weltall"
+    },
+    {
+        "_id": "5fb05a33e6d001326c9c6611",
+        "category_name": "Tiere und Fabelwesen"
+    },
+    {
+        "_id": "5fb05a33e6d001326c9c660d",
+        "category_name": "herbstgedichte"
+    },
+    {
+        "_id": "5fb05a33e6d001326c9c660c",
+        "category_name": "Liebseschichten"
+    },
+    {
+        "_id": "5fb05a33e6d001326c9c660e",
+        "category_name": "Action und Superhelden"
+    },
+     {
+        "_id": "5fb05a33e6d001326c9c660f",
+        "category_name": "Dschungel"
+    },
+    {
+        "_id": "5fb05a33e6d001326c9c6614",
+        "category_name": "Maerchen"
+    },
+    {
+        "_id": "5fb05a33e6d001326c9c6613",
+        "category_name": "Piraten"
+    },
+    {
+        "_id": "5fb05a33e6d001326c9c660a",
+        "category_name": "Hexen und Zauberer"
+    }
+]
